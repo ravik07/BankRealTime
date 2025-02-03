@@ -1,0 +1,35 @@
+These below details will be changed as per requirement
+================================================
+Key Components of the Monolithic Banking System
+====================================================
+Presentation Layer (Frontend & API Gateway)
+
+React/Angular (UI)
+Spring Boot Controller Layer (REST APIs)
+Business Logic Layer
+
+Authentication & Authorization (Spring Security + JWT/OAuth2)
+Banking Services
+User Management
+Account Management
+Credit/Debit Card Management
+Transaction Processing
+Loan & EMI Management
+Notification Service
+Payment Integration (UPI, SWIFT, Stripe, Razorpay)
+Data Access Layer (Repository + Persistence)
+
+Spring Data JPA (Hibernate)
+MySQL/PostgreSQL (Transactional data)
+MongoDB (Optional) (Logs & Analytics)
+Redis (Caching)
+Security & Monitoring
+
+Spring Security (Role-based access)
+ELK Stack (ElasticSearch, Logstash, Kibana) (Log monitoring)
+Prometheus + Grafana (Performance monitoring)
+External Integrations
+
+Payment Gateways
+SMS/Email Service
+Banking APIs (SWIFT, ISO 8583, UPI)
